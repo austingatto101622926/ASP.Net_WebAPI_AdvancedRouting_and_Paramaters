@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Banking_Database", "Banking_Database\Banking_Database.sqlproj", "{ECC22FFB-BFF0-4724-9665-DEA2E176777E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking_API", "Banking_API\Banking_API.csproj", "{A6161A05-95DE-4DC1-B363-3C33C04A2E16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{ECC22FFB-BFF0-4724-9665-DEA2E176777E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECC22FFB-BFF0-4724-9665-DEA2E176777E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ECC22FFB-BFF0-4724-9665-DEA2E176777E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A6161A05-95DE-4DC1-B363-3C33C04A2E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6161A05-95DE-4DC1-B363-3C33C04A2E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6161A05-95DE-4DC1-B363-3C33C04A2E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6161A05-95DE-4DC1-B363-3C33C04A2E16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

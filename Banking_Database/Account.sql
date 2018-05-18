@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Account]
+(
+	[Id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY, 
+    [Balance] MONEY NOT NULL DEFAULT(0)
+)
